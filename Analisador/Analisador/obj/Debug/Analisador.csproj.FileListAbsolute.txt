@@ -1,0 +1,6 @@
+D:\Projetos\AnalisadorLexico\Analisador\Analisador\bin\Debug\Analisador.exe.config
+D:\Projetos\AnalisadorLexico\Analisador\Analisador\obj\Debug\Analisador.exe
+D:\Projetos\AnalisadorLexico\Analisador\Analisador\obj\Debug\Analisador.pdb
+D:\Projetos\AnalisadorLexico\Analisador\projeto1 automato finito\bin\Debug\Analisador.exe.config
+D:\Projetos\AnalisadorLexico\Analisador\projeto1 automato finito\obj\Debug\Analisador.exe
+D:\Projetos\AnalisadorLexico\Analisador\projeto1 automato finito\obj\Debug\Analisador.pdb

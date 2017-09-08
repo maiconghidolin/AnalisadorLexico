@@ -1,0 +1,37 @@
+C:\Users\Maicon\Dropbox\Ciencias da computação\11° Semestre\LFA\Projeto 1 Automato Finito\Projeto1 Automato Finito\Projeto1 Automato Finito\bin\Debug\Projeto1 Automato Finito.exe.config
+C:\Users\Maicon\Dropbox\Ciencias da computação\11° Semestre\LFA\Projeto 1 Automato Finito\Projeto1 Automato Finito\Projeto1 Automato Finito\bin\Debug\Projeto1 Automato Finito.exe
+C:\Users\Maicon\Dropbox\Ciencias da computação\11° Semestre\LFA\Projeto 1 Automato Finito\Projeto1 Automato Finito\Projeto1 Automato Finito\bin\Debug\Projeto1 Automato Finito.pdb
+C:\Users\Maicon\Dropbox\Ciencias da computação\11° Semestre\LFA\Projeto 1 Automato Finito\Projeto1 Automato Finito\Projeto1 Automato Finito\obj\Debug\Projeto1 Automato Finito.csprojResolveAssemblyReference.cache
+C:\Users\Maicon\Dropbox\Ciencias da computação\11° Semestre\LFA\Projeto 1 Automato Finito\Projeto1 Automato Finito\Projeto1 Automato Finito\obj\Debug\Projeto1_Automato_Finito.Properties.Resources.resources
+C:\Users\Maicon\Dropbox\Ciencias da computação\11° Semestre\LFA\Projeto 1 Automato Finito\Projeto1 Automato Finito\Projeto1 Automato Finito\obj\Debug\Projeto1 Automato Finito.csproj.GenerateResource.Cache
+C:\Users\Maicon\Dropbox\Ciencias da computação\11° Semestre\LFA\Projeto 1 Automato Finito\Projeto1 Automato Finito\Projeto1 Automato Finito\obj\Debug\Projeto1 Automato Finito.exe
+C:\Users\Maicon\Dropbox\Ciencias da computação\11° Semestre\LFA\Projeto 1 Automato Finito\Projeto1 Automato Finito\Projeto1 Automato Finito\obj\Debug\Projeto1 Automato Finito.pdb
+C:\Users\Maicon\Dropbox\Ciencias da computação\11° Semestre\LFA\Projeto 1 Automato Finito\Projeto1 Automato Finito\Projeto1 Automato Finito\obj\Debug\Views.ViewAutomatoFinito.resources
+C:\Users\Maicon\Dropbox\Ciencias da computação\11° Semestre\LFA\Projeto 1 Automato Finito\Projeto1 Automato Finito\Projeto1 Automato Finito\obj\Debug\Views.ViewMain.resources
+D:\Projetos\AutomatoFinito\projeto1 automato finito\projeto1 automato finito\bin\Debug\Projeto1 Automato Finito.exe.config
+D:\Projetos\AutomatoFinito\projeto1 automato finito\projeto1 automato finito\obj\Debug\Projeto1 Automato Finito.exe
+D:\Projetos\AutomatoFinito\projeto1 automato finito\projeto1 automato finito\obj\Debug\Projeto1 Automato Finito.pdb
+D:\Projetos\AutomatoFinito\projeto1 automato finito\projeto1 automato finito\bin\Debug\Projeto1 Automato Finito.exe
+D:\Projetos\AutomatoFinito\projeto1 automato finito\projeto1 automato finito\bin\Debug\Projeto1 Automato Finito.pdb
+D:\Projetos\AutomatoFinito\projeto1 automato finito\projeto1 automato finito\obj\Debug\Projeto1 Automato Finito.csprojResolveAssemblyReference.cache
+D:\Projetos\AutomatoFinito\projeto1 automato finito\projeto1 automato finito\obj\Debug\Views.ViewAutomatoFinito.resources
+D:\Projetos\AutomatoFinito\projeto1 automato finito\projeto1 automato finito\obj\Debug\Views.ViewMain.resources
+D:\Projetos\AutomatoFinito\projeto1 automato finito\projeto1 automato finito\obj\Debug\Projeto1_Automato_Finito.Properties.Resources.resources
+D:\Projetos\AutomatoFinito\projeto1 automato finito\projeto1 automato finito\obj\Debug\Projeto1 Automato Finito.csproj.GenerateResource.Cache
+D:\Projetos\AutomatoFinito\projeto1 automato finito\projeto1 automato finito\bin\Debug\itextsharp.dll
+D:\Projetos\AutomatoFinito\projeto1 automato finito\projeto1 automato finito\bin\Debug\itextsharp.xtra.dll
+D:\Projetos\AnalisadorLexico\projeto1 automato finito\projeto1 automato finito\bin\Debug\Projeto1 Automato Finito.exe.config
+D:\Projetos\AnalisadorLexico\projeto1 automato finito\projeto1 automato finito\obj\Debug\Projeto1 Automato Finito.exe
+D:\Projetos\AnalisadorLexico\projeto1 automato finito\projeto1 automato finito\obj\Debug\Projeto1 Automato Finito.pdb
+D:\Projetos\AnalisadorLexico\analisador\projeto1 automato finito\bin\Debug\Analisador.exe.config
+D:\Projetos\AnalisadorLexico\analisador\projeto1 automato finito\bin\Debug\Analisador.exe
+D:\Projetos\AnalisadorLexico\analisador\projeto1 automato finito\bin\Debug\Analisador.pdb
+D:\Projetos\AnalisadorLexico\analisador\projeto1 automato finito\bin\Debug\itextsharp.dll
+D:\Projetos\AnalisadorLexico\analisador\projeto1 automato finito\bin\Debug\itextsharp.xtra.dll
+D:\Projetos\AnalisadorLexico\analisador\projeto1 automato finito\obj\Debug\Projeto1 Automato Finito.csprojResolveAssemblyReference.cache
+D:\Projetos\AnalisadorLexico\analisador\projeto1 automato finito\obj\Debug\Views.ViewAutomatoFinito.resources
+D:\Projetos\AnalisadorLexico\analisador\projeto1 automato finito\obj\Debug\Views.ViewMain.resources
+D:\Projetos\AnalisadorLexico\analisador\projeto1 automato finito\obj\Debug\Analisador.Properties.Resources.resources
+D:\Projetos\AnalisadorLexico\analisador\projeto1 automato finito\obj\Debug\Projeto1 Automato Finito.csproj.GenerateResource.Cache
+D:\Projetos\AnalisadorLexico\analisador\projeto1 automato finito\obj\Debug\Analisador.exe
+D:\Projetos\AnalisadorLexico\analisador\projeto1 automato finito\obj\Debug\Analisador.pdb
