@@ -1,0 +1,117 @@
+﻿Autômato finito gerado.
+Estado 0
+	a vai para 1,3
+	b vai para 0
+	d vai para 25
+	e vai para 18,6
+	f vai para 27
+	i vai para 4
+	n vai para 22
+	t vai para 14,30
+	w vai para 9
+
+Estado *1,3
+	a vai para 2,3
+	b vai para 1,3
+
+Estado 25
+	o vai para 26
+
+Estado 18,6
+	l vai para 19
+	n vai para 7
+
+Estado 27
+	o vai para 28
+
+Estado 4
+	f vai para 5
+
+Estado 22
+	o vai para 23
+
+Estado 14,30
+	e vai para 31
+	h vai para 15
+
+Estado 9
+	h vai para 10
+
+Estado *2,3
+	a vai para 3
+	b vai para 2,3
+
+Estado *26
+
+Estado 19
+	s vai para 20
+
+Estado 7
+	d vai para 8
+
+Estado 28
+	r vai para 29
+
+Estado *5
+
+Estado 23
+	t vai para 24
+
+Estado 31
+	s vai para 32
+
+Estado 15
+	e vai para 16
+
+Estado 10
+	i vai para 11
+
+Estado *3
+	a,b vai para 3
+
+Estado 20
+	e vai para 21
+
+Estado *8
+
+Estado *29
+
+Estado *24
+
+Estado 32
+	t vai para 33
+
+Estado 16
+	n vai para 17
+
+Estado 11
+	l vai para 12
+
+Estado *21
+
+Estado 33
+	e vai para 34
+
+Estado *17
+
+Estado 12
+	e vai para 13
+
+Estado *34
+
+Estado *13
+
+
+Tokens Lidos:
+id: 0, estado: 34, rotulo: teste, linha 1
+id: 1, estado: 34, rotulo: teste, linha 1
+id: 2, estado: 34, rotulo: teste, linha 2
+id: 3, estado: 34, rotulo: teste, linha 2
+id: 4, estado: 34, rotulo: teste, linha 3
+id: 5, estado: 34, rotulo: teste, linha 3
+Erros:
+Linha 1: a sequência de símbolos + não é reconhecida como sentença...
+Linha 2: a sequência de símbolos + não é reconhecida como sentença...
+Linha 3: a sequência de símbolos + não é reconhecida como sentença...
+Análise léxica concluída...
+

@@ -4,3 +4,14 @@ D:\Projetos\AnalisadorLexico\Analisador\Analisador\obj\Debug\Analisador.pdb
 D:\Projetos\AnalisadorLexico\Analisador\projeto1 automato finito\bin\Debug\Analisador.exe.config
 D:\Projetos\AnalisadorLexico\Analisador\projeto1 automato finito\obj\Debug\Analisador.exe
 D:\Projetos\AnalisadorLexico\Analisador\projeto1 automato finito\obj\Debug\Analisador.pdb
+C:\Users\Maicon\Documents\Projetos\AnalisadorLexico\Analisador\Analisador\bin\Debug\Analisador.exe.config
+C:\Users\Maicon\Documents\Projetos\AnalisadorLexico\Analisador\Analisador\obj\Debug\Analisador.exe
+C:\Users\Maicon\Documents\Projetos\AnalisadorLexico\Analisador\Analisador\obj\Debug\Analisador.pdb
+C:\Users\Maicon\Documents\Projetos\AnalisadorLexico\Analisador\Analisador\bin\Debug\Analisador.exe
+C:\Users\Maicon\Documents\Projetos\AnalisadorLexico\Analisador\Analisador\bin\Debug\Analisador.pdb
+C:\Users\Maicon\Documents\Projetos\AnalisadorLexico\Analisador\Analisador\bin\Debug\itextsharp.dll
+C:\Users\Maicon\Documents\Projetos\AnalisadorLexico\Analisador\Analisador\bin\Debug\itextsharp.xtra.dll
+C:\Users\Maicon\Documents\Projetos\AnalisadorLexico\Analisador\Analisador\obj\Debug\Analisador.csprojResolveAssemblyReference.cache
+C:\Users\Maicon\Documents\Projetos\AnalisadorLexico\Analisador\Analisador\obj\Debug\Views.ViewMain.resources
+C:\Users\Maicon\Documents\Projetos\AnalisadorLexico\Analisador\Analisador\obj\Debug\Analisador.Properties.Resources.resources
+C:\Users\Maicon\Documents\Projetos\AnalisadorLexico\Analisador\Analisador\obj\Debug\Analisador.csproj.GenerateResource.Cache

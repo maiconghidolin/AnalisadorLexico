@@ -54,14 +54,11 @@
   <ItemGroup>
     <Compile Include="Models\AutomatoFinito.cs" />
     <Compile Include="Models\Estado.cs" />
+    <Compile Include="Models\TabelaSimbolos.cs" />
     <Compile Include="Models\Transicao.cs" />
     <Compile Include="Models\Utilidades.cs" />
-    <Compile Include="Views\ViewAutomatoFinito.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Views\ViewAutomatoFinito.Designer.cs">
-      <DependentUpon>ViewAutomatoFinito.cs</DependentUpon>
-    </Compile>
+    <Compile Include="Servicos\ServicoAnalisadorLexico.cs" />
+    <Compile Include="Servicos\ServicoGeracaoAutomatoFinito.cs" />
     <Compile Include="Views\ViewMain.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -70,9 +67,6 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Views\ViewAutomatoFinito.resx">
-      <DependentUpon>ViewAutomatoFinito.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Views\ViewMain.resx">
       <DependentUpon>ViewMain.cs</DependentUpon>
     </EmbeddedResource>

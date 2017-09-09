@@ -1,8 +1,0 @@
-if
-end
-while
-then
-else
-not
-do
-for

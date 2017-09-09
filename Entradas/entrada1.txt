@@ -6,6 +6,7 @@ else
 not
 do
 for
+teste
 
 <S> ::= a<A> | b<S>
 <A> ::= a<B> | b<A>
